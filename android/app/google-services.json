@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "901372316128",
-    "project_id": "fishnetlk-74358",
-    "storage_bucket": "fishnetlk-74358.appspot.com"
+    "project_number": "310542131489",
+    "project_id": "fishnetlk-8f180",
+    "storage_bucket": "fishnetlk-8f180.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:901372316128:android:1280795e8abd3d2e738385",
+        "mobilesdk_app_id": "1:310542131489:android:a30e2f64c88fc775339e60",
         "android_client_info": {
           "package_name": "com.example.fishnetlk"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA0VGdisgZhMNVEGhIffDBk0NKodvaFKoc"
+          "current_key": "AIzaSyBl3Mma-tw4K6Z95RkGumrC7gxdkearCDk"
         }
       ],
       "services": {
